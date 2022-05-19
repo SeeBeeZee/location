@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/bhjbgpj3/public_html/
-    - /location/giraffe.html $DEPLOYPATH
+    - /home/bhjbgpj3/repositories/location/giraffe.html $DEPLOYPATH
