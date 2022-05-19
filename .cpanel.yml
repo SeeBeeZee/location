@@ -3,4 +3,3 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/bhjbgpj3/public_html/
     - /giraffe.html $DEPLOYPATH
-    - /bin/cp style.css $DEPLOYPATH
